@@ -1,0 +1,6 @@
+{
+  "name": "PineLab Pro",
+  "description": "Professional Pine Script strategy generator and backtesting lab for TradingView.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["Trading Strategy", "Pine Script v5", "Algorithmic Trading"]
+}
